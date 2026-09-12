@@ -1,0 +1,10 @@
+{
+"id": "dashboard-plugin",
+"name": "Dashboard",
+"version": "0.1.0",
+"minAppVersion": "1.5.0",
+"description": "Personal Dashboard for Obsidian",
+"author": "Tassadar Kowalski",
+"authorUrl": "https://github.com/Tasadar2003",
+"isDesktopOnly": false
+}
